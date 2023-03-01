@@ -1,0 +1,15 @@
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\bin\Debug\net6.0\CurrencyConverter.Application.deps.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\bin\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\bin\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.AssemblyInfo.cs
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.csproj.CopyComplete
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\refint\CurrencyConverter.Application.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Application\obj\Debug\net6.0\ref\CurrencyConverter.Application.dll

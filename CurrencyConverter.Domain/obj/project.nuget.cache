@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C2ZE24lrbCmsdZS/n9+nkJ3VCZmfs02pXAl5UoBn3rxzqi6mXQXScJP6fw6WK1QkJDWVYkjibm7Dt5IF8Q5Skw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linton\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

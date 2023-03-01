@@ -1,0 +1,522 @@
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.exe
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.deps.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.runtimeconfig.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.AssemblyReference.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfoInputs.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfo.cs
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\scopedcss\bundle\CurrencyConverterAPI.styles.css
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CopyComplete
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\refint\CurrencyConverterAPI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.genruntimeconfig.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\ref\CurrencyConverterAPI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.exe
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.deps.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.runtimeconfig.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfo.cs
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.CurrencyConverterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\scopedcss\bundle\CurrencyConverterAPI.styles.css
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CopyComplete
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\refint\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.genruntimeconfig.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net6.0\ref\CurrencyConverterAPI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.exe
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.deps.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.runtimeconfig.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.AssemblyReference.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfoInputs.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfo.cs
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\scopedcss\bundle\CurrencyConverterAPI.styles.css
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CopyComplete
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\refint\CurrencyConverterAPI.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.genruntimeconfig.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\ref\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfo.cs
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.exe
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.deps.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.runtimeconfig.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.CurrencyConverterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\scopedcss\bundle\CurrencyConverterAPI.styles.css
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CopyComplete
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\refint\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.genruntimeconfig.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\ref\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.exe
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.deps.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.runtimeconfig.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.EFCore.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Infrastructure.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.AssemblyInfo.cs
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.CurrencyConverterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CurrencyConverterAPI.props
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\scopedcss\bundle\CurrencyConverterAPI.styles.css
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.csproj.CopyComplete
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\refint\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\CurrencyConverterAPI.genruntimeconfig.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\obj\Debug\net6.0\ref\CurrencyConverterAPI.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverterAPI\bin\Debug\net6.0\ErrorOr.dll

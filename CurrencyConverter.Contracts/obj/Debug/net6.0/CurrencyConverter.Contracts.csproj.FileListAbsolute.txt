@@ -1,0 +1,65 @@
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.deps.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.AssemblyReference.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfoInputs.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfo.cs
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\refint\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\ref\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.deps.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfo.cs
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\refint\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Contracts\obj\Debug\net6.0\ref\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.deps.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.AssemblyReference.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfoInputs.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfo.cs
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\refint\CurrencyConverter.Contracts.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\ref\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.deps.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfo.cs
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\refint\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\ref\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.deps.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.AssemblyInfo.cs
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\refint\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\ref\CurrencyConverter.Contracts.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Application.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Application.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Contracts\obj\Debug\net6.0\CurrencyConverter.Contracts.csproj.CopyComplete

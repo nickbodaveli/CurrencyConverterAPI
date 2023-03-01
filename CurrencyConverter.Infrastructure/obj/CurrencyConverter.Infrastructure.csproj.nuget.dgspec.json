@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj",
+        "projectName": "CurrencyConverter.Application",
+        "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj",
+        "packagesPath": "C:\\Users\\Linton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Linton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj": {
+                "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Contracts\\CurrencyConverter.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Contracts\\CurrencyConverter.Contracts.csproj",
+        "projectName": "CurrencyConverter.Contracts",
+        "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Contracts\\CurrencyConverter.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Linton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Linton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj": {
+                "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj",
+        "projectName": "CurrencyConverter.Domain",
+        "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj",
+        "packagesPath": "C:\\Users\\Linton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Linton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.EFCore\\CurrencyConverter.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.EFCore\\CurrencyConverter.EFCore.csproj",
+        "projectName": "CurrencyConverter.EFCore",
+        "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.EFCore\\CurrencyConverter.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Linton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Linton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj": {
+                "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj",
+        "projectName": "CurrencyConverter.Infrastructure",
+        "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Infrastructure\\CurrencyConverter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Linton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Linton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj": {
+                "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj"
+              },
+              "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Contracts\\CurrencyConverter.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Contracts\\CurrencyConverter.Contracts.csproj"
+              },
+              "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj": {
+                "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.Domain\\CurrencyConverter.Domain.csproj"
+              },
+              "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.EFCore\\CurrencyConverter.EFCore.csproj": {
+                "projectPath": "C:\\Users\\Linton\\Desktop\\new currency\\UpdatedCurrency\\CurrencyConverter.EFCore\\CurrencyConverter.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.deps.json
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.AssemblyReference.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfoInputs.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfo.cs
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\refint\CurrencyConverter.Domain.dll
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\E P A M\source\repos\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\ref\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.deps.json
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfo.cs
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\refint\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\mypro\CurrencyConverterAPI\CurrencyConverter.Domain\obj\Debug\net6.0\ref\CurrencyConverter.Domain.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.deps.json
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.AssemblyReference.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfoInputs.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfo.cs
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\refint\CurrencyConverter.Domain.dll
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\E P A M\Desktop\myapi\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\ref\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.deps.json
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfo.cs
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\refint\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\ref\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.deps.json
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\bin\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.AssemblyInfo.cs
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\refint\CurrencyConverter.Domain.dll
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\CurrencyConverter.Domain.pdb
+C:\Users\Linton\Desktop\new currency\UpdatedCurrency\CurrencyConverter.Domain\obj\Debug\net6.0\ref\CurrencyConverter.Domain.dll
